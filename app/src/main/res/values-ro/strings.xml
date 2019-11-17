@@ -1,0 +1,88 @@
+<resources>
+    <string name="create_notification">Creaza Notificare</string>
+    <string name="view_notification">Arata Notificare</string>
+    <string name="edit_notification">Editeaza Notificare</string>
+    <string name="about">Despre</string>
+    <string name="settings">Setari</string>
+
+    <string name="preference_notification_category">Preferinte Notificari</string>
+    <string name="checkbox_vibrate">Vibratie</string>
+    <string name="checkbox_sound">Sunet</string>
+    <string name="checkbox_LED">BEC</string>
+    <string name="checkbox_ongoing">Persistent</string>
+    <string name="checkbox_dismiss">la atingere, renunta</string>
+    <string name="snooze">Amanare</string>
+    <string name="snooze_detail">Adaugati o actiune de amanare la notificare</string>
+    <string name="snooze_length">Lungimea amanarii</string>
+    <string name="minute">minut</string>
+    <string name="minutes">minute</string>
+
+    <string name="action_settings">Setari</string>
+    <string name="action_delete">Sterge</string>
+    <string name="action_edit">Editeaza</string>
+    <string name="action_about">Despre</string>
+    <string name="action_show_now">Afiseaza acum</string>
+
+    <string name="delete_confirmation">Sigur doriti sa stergeti aceasta notificare ?</string>
+    <string name="yes">Da</string>
+    <string name="no">Nu</string>
+    <string name="ok">OK</string>
+
+    <string name="title">Titlu</string>
+    <string name="save_menu">Salveaza</string>
+    <string name="time_now">Acum</string>
+    <string name="date_today">Azi</string>
+    <string name="times_shown">Afisate de %1$d din %2$d</string>
+    <string name="times_shown_edit">Afisate %1$d din</string>
+    <string name="forever">Permanent</string>
+    <string name="no_repeat">Nu se repeta</string>
+    <string name="times">ori</string>
+    <string name="repeat_notification">Numar de repetari: </string>
+    <string name="content_hint">Adauga continut la notificare</string>
+
+    <string name="select_icon">Selecteaza o pictograma</string>
+    <string name="default_icon">Pictograma implicita</string>
+    <string name="custom_icon">Pictograma personalizata</string>
+
+    <string name="select_colour">Selecteaza o culoare</string>
+    <string name="default_colour">Culoare implicita</string>
+    <string-array name="colour_names_array">
+        <item>Culoare implicita</item>
+        <item>Albastru</item>
+        <item>Mov</item>
+        <item>Rosu</item>
+        <item>Verde</item>
+        <item>Portocaliu</item>
+        <item>Galben</item>
+        <item>Roz</item>
+    </string-array>
+
+    <string name="repeats_on">Se repeta pe:</string>
+
+    <string name="no_active">Nu exista notificari active</string>
+    <string name="no_inactive">Nu exista notificari inactive</string>
+
+    <string name="toast_past_date">Nu se poate seta data initiala in trecut</string>
+    <string name="toast_higher_number">Numarul de repetari trebuie să fie mai mare</string>
+    <string name="toast_title_empty">Titlul nu poate fi gol</string>
+
+    <string name="libraries">Biblioteci</string>
+    <string name="rate_app">Evalueaza aplicatia</string>
+    <string name="contact">Contacteaza developerul</string>
+    <string name="version">Versiune</string>
+
+    <string name="thanks_to">Traducatori</string>
+    <string name="translator">Traducator</string>
+
+    <string name="send_email">Trimite E-mail</string>
+
+    <string-array name="repeat_array">
+        <item>Nu se repeta</item>
+        <item>In fiecare zi</item>
+        <item>In fiecare saptamana</item>
+        <item>In fiecare luna</item>
+        <item>In fiecare an</item>
+        <item>Zile specifice ale saptamanii</item>
+    </string-array>
+    <string name="app_name">Aplicatie Notificari</string>
+</resources>

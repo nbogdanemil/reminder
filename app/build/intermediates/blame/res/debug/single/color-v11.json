@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bodo/Scool/android-apps/reminder/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/bodo/.android/build-cache/0fd9932cbb415a0ac346b543639dc2c7fff46e34/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/bodo/Scool/android-apps/reminder/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/bodo/.android/build-cache/0fd9932cbb415a0ac346b543639dc2c7fff46e34/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

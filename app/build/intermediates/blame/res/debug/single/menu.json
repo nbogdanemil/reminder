@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bodo/Scool/android-apps/reminder/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/bodo/Scool/android-apps/reminder/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/bodo/Scool/android-apps/reminder/app/build/intermediates/res/merged/debug/menu/menu_viewer.xml",
+        "source": "/home/bodo/Scool/android-apps/reminder/app/src/main/res/menu/menu_viewer.xml"
+    },
+    {
+        "merged": "/home/bodo/Scool/android-apps/reminder/app/build/intermediates/res/merged/debug/menu/menu_create.xml",
+        "source": "/home/bodo/Scool/android-apps/reminder/app/src/main/res/menu/menu_create.xml"
+    }
+]

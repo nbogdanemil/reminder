@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bodo/Scool/android-apps/reminder/app/build/intermediates/res/merged/debug/drawable-v21/psts_background_tab.xml",
+        "source": "/home/bodo/.android/build-cache/4349d3c4e8ac2a0d6a2eff62364f0b245bea26e3/output/res/drawable-v21/psts_background_tab.xml"
+    },
+    {
+        "merged": "/home/bodo/Scool/android-apps/reminder/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/bodo/.android/build-cache/0fd9932cbb415a0ac346b543639dc2c7fff46e34/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/bodo/Scool/android-apps/reminder/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/bodo/.android/build-cache/0fd9932cbb415a0ac346b543639dc2c7fff46e34/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

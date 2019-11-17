@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/bodo/Scool/android-apps/reminder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/home/bodo/.android/build-cache/0fd9932cbb415a0ac346b543639dc2c7fff46e34/output/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 48,
+                        "endOffset": 324
+                    }
+                }
+            }
+        ]
+    }
+]

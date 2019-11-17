@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "/home/bodo/Scool/android-apps/reminder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rUS/values-en-rUS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 338
+                },
+                "from": {
+                    "file": "/home/bodo/Scool/android-apps/reminder/app/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endLine": 12,
+                        "endColumn": 19,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 343,
+                    "endColumn": 56,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "/home/bodo/Scool/android-apps/reminder/app/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 73,
+                        "endColumn": 56,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 56,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "/home/bodo/Scool/android-apps/reminder/app/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 56,
+                        "endOffset": 68
+                    }
+                }
+            }
+        ]
+    }
+]
